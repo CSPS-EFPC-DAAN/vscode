@@ -17,6 +17,7 @@ ms-azuretools.vscode-azureappservice
 ms-azuretools.vscode-azurefunctions
 ms-azuretools.vscode-azurestorage
 ms-azuretools.vscode-cosmosdb
+ms-kubernetes-tools.vscode-kubernetes-tools
 ms-mssql.mssql
 ms-python.python
 ms-vscode.PowerShell

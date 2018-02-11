@@ -5,14 +5,11 @@ PeterJausovec.vscode-docker
 Shan.code-settings-sync
 VisualStudioOnlineApplicationInsights.application-insights
 bradygaster.azuretoolsforvscode
-brendandburns.vs-kubernetes
-dbaeumer.jshint
 dbaeumer.vscode-eslint
 donjayamanne.githistory
 draft-lang.draft
 eamodio.gitlens
 felipecaputo.git-project-manager
-johnpapa.azure-functions-tools
 lukehoban.Go
 ms-azuretools.vscode-azureappservice
 ms-azuretools.vscode-azurefunctions
@@ -32,8 +29,8 @@ msazurermtools.azurerm-vscode-tools
 msjsdiag.debugger-for-chrome
 redhat.java
 robertohuertasm.vscode-icons
-technosophos.vscode-helm
 usqlextpublisher.usql-vscode-ext
 vsciot-vscode.azure-iot-edge
 vsciot-vscode.azure-iot-toolkit
 vscoss.vscode-ansible
+wholroyd.jinja

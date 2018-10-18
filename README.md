@@ -1,4 +1,4 @@
-# vscode extensions optimized for Azure
+# Visual Studio Code extensions optimized for K8S
 
 ## Backup
 
@@ -10,7 +10,7 @@ code --list-extensions | sort -o vscode.bak.ext
 
 ## Installation
 
-Install the recommended packages for vscode + Azure.
+Install the recommended packages for VSCode + Azure.
 
 ```
 ./install.sh vscode.ext
